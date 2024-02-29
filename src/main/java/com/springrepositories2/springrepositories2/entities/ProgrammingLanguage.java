@@ -23,6 +23,9 @@ public class ProgrammingLanguage {
         this.inventor = inventor;
     }
 
+    public ProgrammingLanguage() {
+    }
+
     public Long getId() {
         return id;
     }
